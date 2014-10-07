@@ -1,4 +1,5 @@
 # laravel-postgis-database
+Forked from [this laravel-postgis-database](https://github.com/greglamb/laravel-postgis-database) (that seems to be abandoned)
 
 Provides an extended Postgres driver for Laravel 4 that provides support for PostGIS features
 
@@ -16,7 +17,7 @@ Add a requirement for the package
 ```javascript
 {
     "require": {
-        "lamb/laravel-postgis-database": "dev-master"
+        "howlowck/laravel-postgis-database": "dev-master"
     }
 }
 ```
